@@ -41,7 +41,7 @@ OR
 
 # Screenshot
 
-<a href="http://rezaduty.blog.ir/"><img src="https://raw.githubusercontent.com/rezaduty/WakeupBySMS/master/wakeupsms.jpg" alt="Markdownify" width="200"></a>
+<a href="http://rezaduty.blog.ir/"><img src="https://raw.githubusercontent.com/rezaduty/WakeupBySMS/master/wakeupsms.png" alt="Markdownify" width="200"></a>
 
 
 The MIT License (MIT)
