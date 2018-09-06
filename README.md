@@ -12,14 +12,14 @@
 	<a href="https://github.com/ellerbrock/open-source-badge/">
 		<img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=102" alt="open source">
 	</a>
-	<a href="https://github.com/rezaduty/Tahririye_man/raw/master/app/t-v1.0.apk">
+	<a href="https://github.com/rezaduty/WakeupBySMS/raw/master/app/sms_bidarsho.apk">
 		<img src="https://img.shields.io/travis/rust-lang/rust/master.svg" alt="open source">
 	</a>
 	<a href="#">
 		<img src="https://img.shields.io/chrome-web-store/price/nimelepbpejjlbmoobocpfnjhihnpked.svg?style=plastic" alt="open source">
 	</a>
 	<a href="#">
-		<img src="https://img.shields.io/badge/size-3.4%20MB-brightgreen.svg" alt="open source">
+		<img src="https://img.shields.io/badge/size-5.8%20MB-brightgreen.svg" alt="open source">
 	</a>
 	<a href="https://saythanks.io/to/rezaduty">
 		<img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg" alt="open source">
