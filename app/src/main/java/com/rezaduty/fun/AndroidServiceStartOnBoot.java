@@ -9,9 +9,9 @@ import android.media.MediaPlayer;
 import android.os.IBinder;
 import android.util.Log;
 
-import com.rezaduty.mmmm.SmsListener;
-import com.rezaduty.mmmm.SmsReceiver;
-import com.rezaduty.mmmm.database.SqliteDatabase;
+import com.rezaduty.fun.SmsListener;
+import com.rezaduty.fun.SmsReceiver;
+import com.rezaduty.fun.database.SqliteDatabase;
 
 /**
  * Created by client on 8/27/17.

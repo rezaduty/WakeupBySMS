@@ -1,4 +1,4 @@
-package com.rezaduty.mmmm.adapter;
+package com.rezaduty.fun.adapter;
 
 
 import android.app.Activity;
@@ -13,9 +13,9 @@ import android.view.ViewGroup;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.rezaduty.mmmm.Person;
-import com.rezaduty.mmmm.R;
-import com.rezaduty.mmmm.database.SqliteDatabase;
+import com.rezaduty.fun.Person;
+import com.rezaduty.fun.R;
+import com.rezaduty.fun.database.SqliteDatabase;
 
 import java.util.List;
 

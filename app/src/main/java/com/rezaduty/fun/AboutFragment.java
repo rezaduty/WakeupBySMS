@@ -1,4 +1,4 @@
-package com.rezaduty.mmmm;
+package com.rezaduty.fun;
 
 import android.content.Intent;
 import android.net.Uri;

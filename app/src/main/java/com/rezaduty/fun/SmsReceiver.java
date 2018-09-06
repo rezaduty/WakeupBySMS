@@ -1,4 +1,4 @@
-package com.rezaduty.mmmm;
+package com.rezaduty.fun;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -11,7 +11,8 @@ import android.telephony.SmsMessage;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.rezaduty.mmmm.database.SqliteDatabase;
+import com.rezaduty.fun.SmsListener;
+import com.rezaduty.fun.database.SqliteDatabase;
 
 /**
  * Created by client on 8/27/17.

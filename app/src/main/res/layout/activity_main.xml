@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:background="@color/colorWhite"
     android:padding="@dimen/_4sdp"
-    tools:context="com.rezaduty.mmmm.MainActivity">
+    tools:context="com.rezaduty.fun.MainActivity">
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/person_list"

@@ -1,4 +1,4 @@
-package com.rezaduty.mmmm;
+package com.rezaduty.fun;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

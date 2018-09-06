@@ -1,4 +1,4 @@
-package com.rezaduty.mmmm;
+package com.rezaduty.fun;
 
 import android.Manifest;
 import android.content.ComponentName;
@@ -33,8 +33,8 @@ import android.widget.FrameLayout;
 import android.widget.Toast;
 
 import com.farsitel.bazaar.IUpdateCheckService;
-import com.rezaduty.mmmm.adapter.PersonAdapter;
-import com.rezaduty.mmmm.database.SqliteDatabase;
+import com.rezaduty.fun.adapter.PersonAdapter;
+import com.rezaduty.fun.database.SqliteDatabase;
 import com.special.ResideMenu.ResideMenu;
 import com.special.ResideMenu.ResideMenuItem;
 

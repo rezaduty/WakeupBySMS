@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.rezaduty.mmmm">
+    package="com.rezaduty.fun">
     <uses-permission android:name="android.permission.RECEIVE_SMS" >
     </uses-permission>
     <uses-permission android:name="android.permission.READ_SMS" />
@@ -16,7 +16,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
     <receiver
-        android:name="com.rezaduty.mmmm.BroadcastReceiverOnBootComplete"
+        android:name="com.rezaduty.fun.BroadcastReceiverOnBootComplete"
         android:enabled="true"
         android:exported="false">
         <intent-filter>
@@ -31,16 +31,16 @@
             <data android:scheme="package" />
         </intent-filter>
     </receiver>
-        <receiver android:name="com.rezaduty.mmmm.SmsReceiver">
+        <receiver android:name="com.rezaduty.fun.SmsReceiver">
             <intent-filter>
                 <action android:name="android.provider.Telephony.SMS_RECEIVED"/>
             </intent-filter>
         </receiver>
-    <service android:name="com.rezaduty.mmmm.AndroidServiceStartOnBoot"></service>
+    <service android:name="com.rezaduty.fun.AndroidServiceStartOnBoot"></service>
 
 
 
-        <activity android:name="com.rezaduty.mmmm.MainActivity">
+        <activity android:name="com.rezaduty.fun.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

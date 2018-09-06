@@ -1,4 +1,4 @@
-package com.rezaduty.mmmm.adapter;
+package com.rezaduty.fun.adapter;
 
 
 import android.support.v7.widget.RecyclerView;
@@ -6,7 +6,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.rezaduty.mmmm.R;
+import com.rezaduty.fun.R;
 
 public class PersonViewHolder extends RecyclerView.ViewHolder {
 

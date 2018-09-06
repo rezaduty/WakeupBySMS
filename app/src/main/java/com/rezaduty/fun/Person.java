@@ -1,4 +1,4 @@
-package com.rezaduty.mmmm;
+package com.rezaduty.fun;
 
 
 public class Person {
