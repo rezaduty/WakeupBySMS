@@ -29,6 +29,7 @@
 
 # WakeupBySMS
 Wake up with friend sms and custom text!
+for learning sqlite and sms listener and receiver
 
 # Download
 
