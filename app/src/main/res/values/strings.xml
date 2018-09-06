@@ -1,0 +1,14 @@
+<resources>
+    <string name="product_name">نام بیدار کننده</string>
+    <string name="enter_name">متن sms | پیش فرض:بیدار شو</string>
+    <string name="enter_quantity">لطفا شماره مورد نظر خود را انتخاب کنید</string>
+
+    <string name="app_name"> بیدار شوsms</string>
+    <string name="main_desc"> بیدار شوsms</string>
+    <string name="main_phone_desc">شماره بیدار کننده</string>
+    <string name="main_message_desc">متن حساس</string>
+    <string name="library_desc">کتابخوانه های استفاده شده</string>
+    <string name="library_desc_email">reza.duty.persian@gmail.com</string>
+    <string name="library_desc_phone">+989033606734</string>
+    <string name="library_desc_product">تهیه شده در تابستان سال ۹۶</string>
+</resources>
